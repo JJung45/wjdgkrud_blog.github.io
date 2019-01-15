@@ -3,12 +3,12 @@
 title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
 email: 753cindy@naver.com
 brand: wjdgkrud
-headline: Inventor, Engineer and Futurist
+headline: Frontend, PHP Developer
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jjung45.github.io/wjdgkrud_blog.github.io/" # the base hostname & protocol for your site
-copyright: 2016 Whatever Company, Inc. All Rights Reserved.
+copyright: 2018 wjdgkrud. All Rights Reserved.
 
 # Build settings
 markdown: kramdown
@@ -17,8 +17,8 @@ markdown: kramdown
 snapwidget: 247552
 
 # Contacts
-email: your.name@gmail.com
-phone: +1-800-555-2016
+email: 753cindy@naver.com
+phone: 010-7271-8863
 
 # Tracking
 googleAnalitycsID: UA-83933844-1
